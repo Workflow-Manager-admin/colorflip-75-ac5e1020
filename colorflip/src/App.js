@@ -79,8 +79,8 @@ const ColorFlip = () => {
           <button
             className="btn btn-large"
             style={{
-              backgroundColor: '#FFD600', // Yellow button background (WCAG AAA: meets contrast with black text)
-              color: '#222',              // Black text for strong contrast on yellow
+              backgroundColor: '#1976D2', // Blue button background for contrast and accessibility
+              color: '#fff',              // White text ensures readability
               borderRadius: 6,
               marginBottom: '26px',
               minWidth: '140px',
